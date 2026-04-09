@@ -5,6 +5,7 @@
 // @description  Redirect the GitHub logo to your profile instead of the home feed
 // @author       You
 // @match        https://github.com/*
+// @license      Unlicense
 // @grant        none
 // ==/UserScript==
 
