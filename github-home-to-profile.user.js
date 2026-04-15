@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Redirect the GitHub logo: cycle between Home / Profile / Repositories via the Tampermonkey menu
-// @author       You
+// @author       YAIPEAC
 // @match        https://github.com/*
 // @license      Unlicense
 // @grant        GM_registerMenuCommand
