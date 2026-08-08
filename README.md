@@ -4,8 +4,8 @@ A simple Tampermonkey script that redirects the GitHub logo to your profile page
 
 ## Installation
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Download from [Greasefork](https://greasyfork.org/en/scripts/573226-github-home-profile)
+1. Install Tampermonkey
+2. [Install](https://greasyfork.org/en/scripts/573226-github-home-profile) from Greasefork
 3. Click **Install this script** in Tampermonkey
 
 ## What it does
